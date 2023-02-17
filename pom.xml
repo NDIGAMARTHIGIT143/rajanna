@@ -28,7 +28,7 @@
 																	          <artifactId>javafx-maven-plugin</artifactId>
 																		          <version>${javafx.maven.plugin.version}</version>
 																			          <configuration>
-																					            <mainClass>HelloooFX</mainClass>
+																					            <mainClass>Hell00ooFX</mainClass>
 																						            </configuration>
 																							          </plugin>
 																								      </plugins>
